@@ -37,7 +37,9 @@ The project uses fictional banking data across five related tables:
 
 ## Project Status
 In Progress — Executive Overview and Credit Risk Analysis completed. Additional analysis and drill-through features are planned.
+
 ## Dashboard Preview
 
+![Banking Customer 360 Dashboard](Credit%20RiskBanking-Customer-360-Dashboard.png.PNG)
 
 
