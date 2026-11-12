@@ -27,3 +27,6 @@ An interactive Power BI dashboard analysing the performance of leading Indian co
 
 ## Project Status
 Completed
+## Dashboard Preview
+
+![Top Indian Companies Dashboard](Top_Indian_companies_Dashboard.PNG)
