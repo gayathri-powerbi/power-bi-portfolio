@@ -27,3 +27,6 @@ An interactive Power BI dashboard analysing screen-time patterns, device usage a
 
 ## Project Status
 Completed
+## Dashboard Preview
+
+![Screen Time & Health Trends Dashboard](Indian_Kids_ScreenTime_Health_Cleaned.png.PNG)
