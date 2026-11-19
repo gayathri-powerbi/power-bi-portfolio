@@ -47,3 +47,18 @@ A sample dataset containing 10 fictional banking customers with:
 To demonstrate how Python can help banking teams understand loan performance, identify default patterns, and make data-driven decisions.
 
 *Note: This project uses fictional sample data for learning and portfolio demonstration.*
+
+## Skills Demonstrated
+
+- Python fundamentals
+- Pandas DataFrame creation and manipulation
+- Data filtering and grouping
+- Data quality checks
+- Aggregation using SUM, COUNT and MEAN
+- Pivot table analysis
+- Data visualization using Matplotlib
+- Banking business analysis
+
+## Conclusion
+
+This project demonstrates practical use of Python for banking data analysis. It provides insights into loan distribution, branch performance, and loan defaults through data analysis and visualization.
